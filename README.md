@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-by Don Welch
+A simple demo, by Me, for DMIT-2018
